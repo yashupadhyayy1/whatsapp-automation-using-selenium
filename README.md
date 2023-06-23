@@ -25,6 +25,7 @@ You can install the required dependencies using the following command:
 
 ```shell
 pip install selenium pyautogui pandas
+```
 
 ## Usage
 
